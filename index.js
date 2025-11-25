@@ -1,1 +1,2 @@
-let courseLength = 20; .innerHTMI
+var courseLength = 20; 
+document.getElementById('result').innerHTML = courseLength;
