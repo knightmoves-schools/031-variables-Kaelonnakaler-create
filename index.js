@@ -1,1 +1,1 @@
-let courseLength = 20;
+let courseLength = 20; .innerHTMI
